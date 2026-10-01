@@ -1,0 +1,9 @@
+source-wsq/
+assessment/
+build/
+.DS_Store
+.env
+.claude/
+tmp/
+*.log
+*.zip
